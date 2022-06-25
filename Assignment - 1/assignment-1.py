@@ -51,6 +51,7 @@ print("In programming language terminology, an “expression” is a combination
 
 print("6. After running the following code, what does the variable bacon contain? bacon =22 bacon + 1")
 print("Answer Is 23")
+print("Answer Is 23")
 
 
 print("7. What should the values of the following two terms be? 'spam' + 'spamspam' 'spam' * 3")
