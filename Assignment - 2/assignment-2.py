@@ -16,3 +16,4 @@ print("-------------------------------------------------------------------------
 print("2) What are the three different types of Boolean operators?")
 print("There Are Three Different types of boolean :-")
 print("I) AND   II) OR   III) NOT")
+print("I) AND   II) OR   III) NOT")
